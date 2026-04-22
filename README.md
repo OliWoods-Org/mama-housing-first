@@ -69,3 +69,19 @@ Housing advocates, social workers, developers, and people with lived experience 
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Make an impact.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **HousingNavigator** | Match to available programs by location and eligibility |
+| **ApplicationAssistant** | Complete applications, gather documentation |
+| **LandlordOutreach** | Engagement letters with incentive programs |
+| **StabilityCoach** | Post-housing support and stability planning |
+| **EvictionPrevention** | Detect at-risk households, connect to emergency assistance |
+| **BenefitsCalculator** | Calculate total benefits across all programs (Section 8 + SNAP + Medicaid + utility assistance) |
+| **DocumentHelper** | Gather required documents: ID, income verification, disability documentation, landlord references |
+| **TransportAccess** | Transit routes to housing options, proximity to work/school/medical |
+| **NeighborhoodGuide** | Safety scores, school quality, grocery access, medical facilities near housing options |
+
+**9 agents. Grant-funded. Free forever.**
